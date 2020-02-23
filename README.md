@@ -1,2 +1,2 @@
 # wol-webathon
-simple web tamplate for a tour & travel website using html & css.
+simple web tamplate for inspiring to learn and code using html & css.
